@@ -1,5 +1,3 @@
-# .github
-
 # ⚠️ Approov Alpha — Experimental & Early Development
 
 > **WARNING:** The repositories in this organization contain **experimental, early-stage, or proof-of-concept software**. 
